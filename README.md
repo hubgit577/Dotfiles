@@ -14,3 +14,4 @@ Third-party software, themes and assets retains their respective licenses.
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f20756ec-1fb8-46ff-811a-5f9be205d088" />
 
 ### Fastfetch
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39d06757-d597-4298-9bad-5546ae37f3c5" />
